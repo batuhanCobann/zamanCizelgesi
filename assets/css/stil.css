@@ -2,48 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 body{
-
     background: #0E1323;
 }
 
 .div-body{
-    display: flex;
     width: 255px;
     height: 518px;
-    background: #1C204B;
-}
-
-.kutu1{
-    width: 200px;
-    height: 200px;
-    background: #fff;
-}
-
-.kutu2{
-    width: 200px;
-    height: 200px;
-    background: #1C204B;
-}
-.kutu3{
-    width: 200px;
-    height: 200px;
-    background: #1C204B;
-}
-.kutu4{
-    width: 200px;
-    height: 200px;
-    background: #1C204B;
-}
-.kutu5{
-    width: 200px;
-    height: 200px;
-    background: #1C204B;
-}
-.kutu6{
-    width: 200px;
-    height: 200px;
-    background: #1C204B;
+    background-color: wheat;
 }
