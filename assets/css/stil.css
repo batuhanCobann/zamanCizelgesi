@@ -26,38 +26,64 @@ body{
 }
 
 .kutu1{
+
     border-radius: 15px;
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/turuncu.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
 }
 
 .kutu2{
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/turkuaz.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
+
 }
 .kutu3{
     border-radius: 15px;
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/pembe.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
 }
 .kutu4{
     border-radius: 15px;
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/yesil.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
 }
 .kutu5{
     border-radius: 15px;
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/kucukmor.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
 }
 .kutu6{
     border-radius: 15px;
     width: 255px;
     height: 244px;
-    background: #1C204B;
+    background-image: url(../img/sari.svg);
+    background-repeat: no-repeat;
+    img{
+        margin-top: 40px;
+    }
 }
